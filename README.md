@@ -17,6 +17,6 @@
 
 https://github.com/bradtraversy/design-resources-for-developers
 
-### Design resources
+### Public APIs
 
 https://github.com/public-apis/public-apis
