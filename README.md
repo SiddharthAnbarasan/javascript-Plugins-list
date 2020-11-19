@@ -5,3 +5,18 @@
 |          Plugin Name                        |                 Plugin link
 | ------------------------------------------  |  -----------------------------------------------------------
 | Three JS                                    |  https://threejs.org/
+| Tilt JS                                     |  http://gijsroge.github.io/tilt.js/
+
+### Calculations
+
+|          Plugin Name                        |                 Plugin link
+| ------------------------------------------  |  -----------------------------------------------------------
+| Math JS                                     |  https://mathjs.org/
+
+### Design resources
+
+https://github.com/bradtraversy/design-resources-for-developers
+
+### Design resources
+
+https://github.com/public-apis/public-apis
